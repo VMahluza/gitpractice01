@@ -11,6 +11,6 @@ package com.mycompany.gitpractice01;
 public class GitPractice01 {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("The sum of 7 and 9 is " + (9+9));
     }
 }
